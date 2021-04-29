@@ -23,6 +23,7 @@ a {
   background-size: cover;
   background-color: #f7f7f7;
   text-align: center;
+  opacity: 0.5;
 }
 
 .top-wrapper h1 {
