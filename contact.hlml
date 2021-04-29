@@ -11,16 +11,18 @@
   <header>
     <div class="container">
       <div class="header-left">
-        <img class="logo" src="https://prog-8.com/images/html/advanced/main_logo.png">
+        <img class="logo" src="">
       </div>
       <span class="fa fa-bars menu-icon"></span>
       <div class="header-right">
-        <a href="#">レッスン</a>
-        <a href="#">新規登録</a>
-        <a href="#" class="login">ログイン</a>
+        <a href="about.html">研究業績</a>
+        <a href="news.html">NEWS</a>
+        <a href="menber.html">メンバー</a>
+        <a href="contact.html" class="login">コンタクト</a>
       </div>
     </div>
   </header>
+    
   <div class="top-wrapper">
     <div class="container">
       <h1>LEARN TO CODE.<br>LEARN TO BE CREATIVE.</h1>
