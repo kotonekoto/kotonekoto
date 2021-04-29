@@ -145,6 +145,7 @@ header {
 
 .lesson-icon {
   position: relative;
+  background-color:rgba(0,0,0,0.5);
 }
 
 .lesson-icon p {
