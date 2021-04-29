@@ -144,7 +144,7 @@ header {
 }
 
 .lesson-icon {
-  padding:0 5px;
+  position: relative;
   color:rgba(0,0,0,0.5);
 }
 
