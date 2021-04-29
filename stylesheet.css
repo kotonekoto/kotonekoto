@@ -148,7 +148,7 @@ header {
   color:rgba(0,0,0,0.5);
 }
 
-.lesson-icon:hover {
+.lesson-icon a:hover {
   opacity: 0.3;
 }
 
