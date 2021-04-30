@@ -212,9 +212,7 @@ header {
  
 }
 
-#circleGroup, #joinLine{
-  stroke:#fff;
-}
+
 .circle{
   cursor:pointer;
    -webkit-tap-highlight-color: rgba(0,0,0,0);
