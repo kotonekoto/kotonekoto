@@ -165,6 +165,26 @@ header {
   border-bottom: solid 3px rgb(119, 195, 223);
 }
 
+h5 {
+  position: relative;
+  color: #333;
+  text-shadow: 0 0 2px white;
+}
+h5:before {
+  content: "";
+  position: absolute;
+  background: #9de5ff;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  top: 50%;
+  /* border: dashed 1px white; */
+  left: -15px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: -1;
+}
+
 .lesson {
   float: left;
   width: 25%;
