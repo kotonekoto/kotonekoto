@@ -165,12 +165,12 @@ header {
   border-bottom: solid 3px rgb(119, 195, 223);
 }
 
-h5 {
+.heading h5 {
   position: relative;
   color: #333;
   text-shadow: 0 0 2px white;
 }
-h5:before {
+.heading h5:before {
   content: "";
   position: absolute;
   background: #9de5ff;
