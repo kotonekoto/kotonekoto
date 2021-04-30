@@ -134,7 +134,10 @@ header {
 .heading h2 {
   font-weight: normal;
 }
-
+.heading h6{
+  font-weight: normal;
+  font-size: 15px;
+}
 
 
 
