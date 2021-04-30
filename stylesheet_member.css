@@ -137,11 +137,16 @@ header {
 
 .heading h4{
   color: #b3aeb5;
+  font-size: 20px;
+ 
+  
+}
+.heading h5{
+  color: #b3aeb5;
   font-size: 35px;
  
-  font-weight: normal;
+  
 }
-
 
 
 .lesson {
