@@ -287,19 +287,13 @@ footer {
     width: 100%;
   }
 }
-.body {
+.footer {
   background-color:#488BDA;
   overflow: hidden;
   text-align:center;
 }
 
-.body,
-html {
-  height: 100%;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
+
 
 
 .svg{
