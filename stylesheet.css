@@ -139,12 +139,12 @@ header {
   font-size: 15px;
 }
 
-.heading h3 {
+.heading h4 {
   position: relative;
   padding-left: 25px;
 }
 
-.heading h3:before {
+.heading h4:before {
   position: absolute;
   content: '';
   bottom: -3px;
@@ -156,7 +156,7 @@ header {
   border-bottom: solid 15px rgb(119, 195, 223);
 }
 
-.heading h3:after {
+.heading h4:after {
   position: absolute;
   content: '';
   bottom: -3px;
