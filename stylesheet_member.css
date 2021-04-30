@@ -19,11 +19,15 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(top.png);
+  background-image: url(https://raw.githubusercontent.com/kotonekoto/kotonekoto/main/スクリーンショット%202021-04-28%2011.40.18.png);
   background-size: cover;
-  color: white;
+  background-color: rgba(255,255,255,0.3);
   text-align: center;
+ 
+  
 }
+
+
 
 .top-wrapper h1 {
   opacity: 0.7;
@@ -39,6 +43,7 @@ a {
 
 .btn-wrapper {
   text-align: center;
+  
 }
 
 .btn-wrapper p {
@@ -46,16 +51,16 @@ a {
 }
 
 .signup {
-  background-color: #239b76;
+  background-color: #00FF00;
 }
 
 .facebook {
-  background-color: #3b5998;
+  background-color: #800000;
   margin-right: 10px;
 }
 
 .twitter {
-  background-color: #55acee;
+  background-color: #008080;
 }
 
 .btn {
@@ -116,7 +121,7 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #f7f7f7;
+  background-color: white;
   text-align: center;
 }
 
@@ -130,6 +135,9 @@ header {
   font-weight: normal;
 }
 
+
+
+
 .lesson {
   float: left;
   width: 25%;
@@ -137,7 +145,17 @@ header {
 
 .lesson-icon {
   position: relative;
+  color:rgba(0,0,0,0.5);
 }
+
+.lesson-icon a{
+  padding:0 5px;
+}
+
+.lesson-icon a:hover {
+  opacity: 0.3;
+}
+
 
 .lesson-icon p {
   position: absolute;
@@ -268,4 +286,5 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
-}
+
+  
