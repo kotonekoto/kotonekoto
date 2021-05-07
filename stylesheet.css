@@ -46,40 +46,8 @@ li {
   margin-bottom: 40px;
 }
 
-.btn-wrapper {
-  text-align: center;
-  
-}
 
-.btn-wrapper p {
-  margin-bottom: 20px;
-}
 
-.signup {
-  background-color: #00FF00;
-}
-
-.facebook {
-  background-color: #800000;
-  margin-right: 10px;
-}
-
-.twitter {
-  background-color: #008080;
-}
-
-.btn {
-  padding: 8px 24px;
-  color: white;
-  display: inline-block;
-  opacity: 0.8;
-  border-radius: 4px;
-  text-align: center;
-}
-
-.btn:hover {
-  opacity: 1;
-}
 
 .fa {
   margin-right: 5px;
@@ -142,10 +110,6 @@ header {
 .heading h2 {
   font-weight: normal;
 }
-.heading h6{
-  font-weight: normal;
-  font-size: 15px;
-}
 
 .heading h4 {
   position: relative;
@@ -192,6 +156,12 @@ header {
   transform: translateY(-50%);
   z-index: -1;
 }
+ 
+ .heading h6{
+  font-weight: normal;
+  font-size: 15px;
+}
+
 
 .lesson {
   float: left;
