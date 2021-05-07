@@ -1,0 +1,3 @@
+hum.on('click', function(){
+   nav.toggleClass('toggle');
+});
