@@ -109,10 +109,10 @@ header {
 .heading h4 {
   position: relative;
   padding-left: 25px;
+
 }
 
 
-}
 .heading h4 :before {
   position: absolute;
   content: '';
