@@ -112,6 +112,27 @@ header {
 }
 
 
+}
+.heading h4 :before {
+  position: absolute;
+  content: '';
+  bottom: -3px;
+  left: 0;
+  width: 0;
+  height: 0;
+  border: none;
+  border-left: solid 15px transparent;
+  border-bottom: solid 15px rgb(119, 195, 223);
+}
+
+.heading h4:after {
+  position: absolute;
+  content: '';
+  bottom: -3px;
+  left: 10px;
+  width: 100%;
+  border-bottom: solid 3px rgb(119, 195, 223);
+}
  
 .heading h5 {
   position: relative;
@@ -119,7 +140,9 @@ header {
   text-shadow: 0 0 2px white;
 }
 
- 
+
+
+
  .heading h6{
   font-weight: normal;
   font-size: 15px;
