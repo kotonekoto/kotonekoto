@@ -11,8 +11,6 @@ a {
   text-decoration: none;
 }
 
-
-
 .container {
   width: 100%;
   padding: 0 15px;
@@ -114,9 +112,7 @@ header {
 }
 
 
-  border-bottom: solid 3px rgb(119, 195, 223);
-}
-
+ 
 .heading h5 {
   position: relative;
   color: #333;
